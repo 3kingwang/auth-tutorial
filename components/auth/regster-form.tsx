@@ -60,7 +60,7 @@ const RegisterForm = () => {
                   <FormControl>
                     <Input
                       {...field}
-                      placeholder="Jhon Doe"
+                      placeholder="John Doe"
                       type="text"
                       disabled={isPending}
                     />
